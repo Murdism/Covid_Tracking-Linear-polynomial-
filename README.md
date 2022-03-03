@@ -1,6 +1,6 @@
 # Covid_Tracking-Linear-polynomial-
 Tasks
-1. Predict the number of covid cases based on data provided by 
+1. Predict the number of covid cases based on the real data for the whole population of the USA provided here: https://covidtracking.com/
 2. Consider as training data set the first 70% of the available data
 3. Perform linear or polynomial regression until you are happy with the results of the training data.
 4. Introduce regularization and redo the step 2 and provide a short discussion of the improvements vs. performance.
